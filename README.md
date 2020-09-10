@@ -1,4 +1,5 @@
 # MNIST_TKINTER_PROJECT
+
 ## Dependencies
     1. tensorflow
     2. matplotlib
@@ -17,6 +18,11 @@
     6. pip install tk-tools (https://pypi.org/project/tk-tools/)
     7. pip install opencv-python (https://pypi.org/project/opencv-python/)
     
-## Output
+## Input Screen
+
+<img style="width:500px" src="https://user-images.githubusercontent.com/50513363/92754232-42dc2380-f3a8-11ea-8263-09cd6417b878.png" height="300" >
+
+## Output Screen
+
 <img style="width:500px" src="Output/Screenshot%20(1011).png" height="300" >
     
