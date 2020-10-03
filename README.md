@@ -34,6 +34,13 @@
 ## Model used :
     1.aug_digit.h5
     
+## You can try the bellow models also
+    1. aug_digit (1).h5
+    2. digit.h5
+    3. digit2.h5
+    
+    You can use notebook(https://github.com/ANKITPODDER2000/MNIST_TKINTER_PROJECT/blob/master/main_app.ipynb) or    pyfile(https://github.com/ANKITPODDER2000/MNIST_TKINTER_PROJECT/blob/master/main_app_py.py) as you want , both are same.
+    
 ## Input Screen
 
 <img style="width:500px" src="https://user-images.githubusercontent.com/50513363/92754232-42dc2380-f3a8-11ea-8263-09cd6417b878.png" height="300" >
