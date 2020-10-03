@@ -39,7 +39,7 @@
     2. digit.h5
     3. digit2.h5
     
-    You can use notebook(https://github.com/ANKITPODDER2000/MNIST_TKINTER_PROJECT/blob/master/main_app.ipynb) or    pyfile(https://github.com/ANKITPODDER2000/MNIST_TKINTER_PROJECT/blob/master/main_app_py.py) as you want , both are same.
+You can use [notebook](https://github.com/ANKITPODDER2000/MNIST_TKINTER_PROJECT/blob/master/main_app.ipynb) or [pyfile](https://github.com/ANKITPODDER2000/MNIST_TKINTER_PROJECT/blob/master/main_app_py.py) as you want , both are same.
     
 ## Input Screen
 
