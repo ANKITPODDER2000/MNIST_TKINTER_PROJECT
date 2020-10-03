@@ -31,6 +31,8 @@
     7. pip install opencv-python         
 [Click here to see docs](https://pypi.org/project/opencv-python/)
 
+## Model used :
+    1.aug_digit.h5
     
 ## Input Screen
 
