@@ -13,6 +13,8 @@ import PIL
 from tkinter import *
 import cv2
 print("tf version : ",tf.__version__)
+print("numpy version:",np.__version__)
+print("cv2 version:",cv2.__version__)
 
 
 # In[2]:
